@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-
 import "tabler-react/dist/Tabler.css";
-
 import { Nav } from "tabler-react";
+import './style.css'
 
 class Navbar extends Component {
   render() {
